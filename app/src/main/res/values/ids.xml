@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="cdview" type="id" />
+    <item name="rl_root" type="id" />
+    <item name="sb_out_border_width" type="id" />
+    <item name="sb_inner_border_width" type="id" />
+    <item name="sb_inner_circle_radius" type="id" />
+    <item name="inner_point_radius" type="id" />
+</resources>

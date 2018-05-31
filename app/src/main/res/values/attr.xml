@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CDView">
+        <attr name="outerBorderWidth" format="dimension" />
+        <attr name="innerBorderWidth" format="dimension" />
+        <attr name="cdBgColor" format="color" />
+        <attr name="cdShaderWidth" format="dimension" />
+        <attr name="innerCircleRadius" format="dimension" />
+        <attr name="innerPointRadius" format="dimension" />
+    </declare-styleable>
+</resources>
